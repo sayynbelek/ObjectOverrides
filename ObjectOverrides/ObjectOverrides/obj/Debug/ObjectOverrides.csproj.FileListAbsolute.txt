@@ -1,0 +1,6 @@
+Z:\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+Z:\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+Z:\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+Z:\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.csprojResolveAssemblyReference.cache
+Z:\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+Z:\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.pdb
